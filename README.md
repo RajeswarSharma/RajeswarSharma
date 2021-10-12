@@ -3,6 +3,10 @@
 
 ### Hi I am Rajeswar Sharma👋
 
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Agartala-3c9)
+
 <!--
 **RajeswarSharma/RajeswarSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +24,15 @@ Here are some ideas to get you started:
 - 🌐 My [Blogpost](https://projectwithpython.blogspot.com/)
 - 📚 I Love to read about ancient technologies
 
+<p align="center">
+  <h2 align="center"><code>📊SOME STATS</code></h4>
+</p>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=RajeswarSharma&show_icons=true&theme=dark&line_height=40&count_private=true" align="right">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeswarSharma&theme=dark">
+
+
+![Rajeswar's github contribution graph](https://activity-graph.herokuapp.com/graph?username=RajeswarSharma&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
