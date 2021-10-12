@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 - 📧 My official **rajeswar.sh47@gmail.com**
 - 🌐 My [Blogpost](https://projectwithpython.blogspot.com/)
 - 📚 I Love to read about ancient technologies
-<br/>
-<br/>
-<img  src="https://github-readme-stats.vercel.app/api?username=RajeswarSharma&show_icons=true&theme=tokyonight&line_height=40&count_private=true&layout=compact" align="right">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeswarSharma&theme=tokyonight">
+
+<img  src="https://github-readme-stats.vercel.app/api?username=RajeswarSharma&show_icons=true&theme=dark&line_height=40&count_private=true" align="right">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeswarSharma&theme=dark">
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
