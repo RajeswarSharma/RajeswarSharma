@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🌐 My [Blogpost](https://projectwithpython.blogspot.com/)
 - 📚 I Love to read about ancient technologies
 
+
 <p align="center">
   <h2 align="center"><code>📊SOME STATS</code></h4>
 </p>
@@ -37,3 +38,8 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 ![VisitorCount](https://profile-counter.glitch.me/RajeswarSharma/count.svg)
+<p align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=RajeswarSharma)](https://github.com/RajeswarSharma/github-profile-trophy)
+
+</p>
