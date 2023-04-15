@@ -5,7 +5,7 @@
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Agartala-3c9)
+![living](https://img.shields.io/badge/living-Chandigarh-3c9)
 
 <!--
 **RajeswarSharma/RajeswarSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
