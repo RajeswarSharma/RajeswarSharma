@@ -1,7 +1,7 @@
 
-<img src="./profile-3d-contrib/PicsArt_10-12-09.03.26.jpg">
+<p align="center"><img  width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
 
-### Hello World! I am Rajeswar Sharma👋
+<h1 align="center"><img width="30ox" align="bottom" height="30px"src="https://user-images.githubusercontent.com/54684919/232230204-466ddab2-2756-4f19-aee9-dc24b2aa7d79.gif"> Hello World! I am Rajeswar Sharma </h1>
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
